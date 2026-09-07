@@ -37,4 +37,5 @@ Formation en 3 ans (mais on peut sortir après 2 ans avec un DUT).
 
 J'ai opté pour le **BTS SIO** en spécialité **SLAM** pour approfondir mes compétences en développement d'applications. J'ai choisi le **STS** du lycée **Léonard de Vinci** de la ville de Melun.
 
+
 <img    src="{static}/images/logo&baseline-fondblanc.png" alt="Logo LdV" style="width: 200px;">
